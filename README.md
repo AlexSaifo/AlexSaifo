@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:06b6d4&height=190&section=header&text=Ali%20Saifo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20%26%20AI%20Engineer&descAlignY=58&descSize=20" alt="Ali Saifo — Software and AI Engineer" />
+<h1>Hi, I'm Ali Saifo 👋</h1>
+
+<p><strong>Software & AI Engineer · Senior Full-Stack Developer</strong></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Senior+Full-Stack+Developer;Building+accessible%2C+scalable+web+products;Turning+AI+research+into+useful+experiences" alt="Animated introduction" />
@@ -59,18 +61,11 @@ Beyond the icons: **TanStack Query · Zustand · Redux Toolkit · Zod · Vitest 
 
 </div>
 
-## 📊 GitHub pulse
+## 📊 GitHub activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexSaifo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ali's GitHub statistics" />
-<img height="165" src="https://streak-stats.demolab.com?user=AlexSaifo&theme=tokyonight&hide_border=true" alt="Ali's GitHub contribution streak" />
-
-<br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSaifo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages" />
-
-</div>
+- 🟩 **[Contribution graph](https://github.com/AlexSaifo?tab=overview&from=2026-01-01&to=2026-12-31)** — recent work and activity
+- 📦 **[Public repositories](https://github.com/AlexSaifo?tab=repositories)** — projects, experiments, and source code
+- ⭐ **[Stars](https://github.com/AlexSaifo?tab=stars)** — tools and projects I follow
 
 ## 🤝 Let's connect
 
@@ -82,5 +77,3 @@ If you're building an ambitious web product, an AI-enabled workflow, or a biling
 [![GitHub](https://img.shields.io/badge/GitHub-AlexSaifo-181717?style=for-the-badge&logo=github)](https://github.com/AlexSaifo)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:7c3aed&height=110&section=footer" alt="" />
