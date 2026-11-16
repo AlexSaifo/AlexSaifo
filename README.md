@@ -36,7 +36,7 @@ I'm **Ali Saifo**, a Software and AI Engineer based in Damascus, Syria. I build 
 
 ### Backend, AI & data
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,flask,php,laravel,postgres,mysql&perline=9" alt="Backend and data technologies" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,flask,postgres,mysql&perline=9" alt="Backend and data technologies" />
 
 ### Delivery & tooling
 
